@@ -4,7 +4,7 @@
 
 The project focuses on streamlining medicine management, user handling, and billing processes, ensuring that the system is modular, maintainable, and secure. It is built with **.NET** and uses **SQL Server** as the backend database.  
 
----
+
 
 ## Project Overview
 
@@ -16,7 +16,7 @@ The Pharmacy Management System allows pharmacies to manage day-to-day operations
 
 The system implements **role-based access control** to ensure that users can only perform actions relevant to their roles. This design improves security and operational efficiency while providing a clear hierarchy of responsibilities.  
 
----
+
 
 ## User Roles
 
@@ -40,7 +40,7 @@ The system supports three types of users, each with distinct permissions:
 
 This separation of roles ensures that only authorized users can access sensitive operations, maintaining data integrity and operational security.  
 
----
+
 
 ## Core Features
 
@@ -53,7 +53,7 @@ The Pharmacy Management System incorporates the following core features:
 - **Structured Data Handling:** Ensures safe and consistent storage of all information  
 - **Object-Oriented Design:** Implements OOP2 principles including encapsulation, inheritance, and abstraction for modularity and maintainability  
 
----
+
 
 ## Technologies Used
 
@@ -63,7 +63,7 @@ The Pharmacy Management System incorporates the following core features:
 - **Architecture:** Object-Oriented Programming (OOP2)  
 - **Tools:** Visual Studio  
 
----
+
 
 ## Project Goal
 
@@ -77,4 +77,4 @@ The main objective of this project is to develop a **comprehensive pharmacy mana
 
 This project showcases the application of **OOP2 concepts** in a practical scenario, preparing students to design and develop structured software solutions for real-world business needs.  
 
----
+
